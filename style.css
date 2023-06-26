@@ -1,0 +1,28 @@
+body
+{
+padding:0;
+margin:0;
+height:100vh;
+width:100vw;
+background-image:url("https://c0.wallpaperflare.com/preview/767/307/642/moon-space-night-astronomy.jpg");
+background-size:100% 100%;
+background-repeat:no-repeat;
+overflow-x:hidden;
+}
+.form{
+    width:100vw;
+    margin-left:38%;
+    margin-top:2%;
+    padding: 20px;
+}
+
+#btn{
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.weather-status
+{
+margin-top:-90px;
+color:black;
+text-shadow: 2px 2px 5px whitesmoke;
+}
